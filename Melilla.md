@@ -1,6 +1,6 @@
-- 👋 CUENTA DE  @HMaanan
+voy- 👋 CUENTA DE  @HMaanan
 - 👀 INTERESADO EN PROGRAMAR ...
-- 🌱  ALEGRIA
+- 🌱  JAVA, GIT ,HTML
 - 💞️  DANDOLO TODO
 - 📫 SIEMPRE EN MARCHA..
 - 😄 ..
